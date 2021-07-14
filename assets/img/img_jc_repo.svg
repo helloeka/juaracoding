@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_jc_repo</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFF7F7" offset="0%"></stop>
+            <stop stop-color="#FFE9E9" offset="59.0444712%"></stop>
+            <stop stop-color="#FFD1D1" offset="100%"></stop>
+        </linearGradient>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-818.000000, -1089.000000)">
+            <g id="Group" transform="translate(103.000000, 1058.000000)">
+                <g id="img_jc_repo" transform="translate(715.000000, 31.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="50" cy="50" r="50"></circle>
+                    <g id="Group" transform="translate(23.000000, 23.000000)" stroke-linejoin="round">
+                        <g filter="url(#filter-2)" id="5-Development">
+                            <g stroke="#000000" stroke-width="2">
+                                <rect id="Rectangle" x="0" y="0" width="55" height="55" rx="4"></rect>
+                                <line x1="3.58695652" y1="9.56521739" x2="51.4130435" y2="9.56521739" id="Path"></line>
+                                <line x1="4.7826087" y1="4.7826087" x2="7.17391304" y2="4.7826087" id="Path"></line>
+                                <line x1="9.56521739" y1="4.7826087" x2="11.9565217" y2="4.7826087" id="Path"></line>
+                                <line x1="47.826087" y1="4.7826087" x2="50.2173913" y2="4.7826087" id="Path"></line>
+                                <path d="M43.0434783,22.7173913 L22.7173913,22.7173913 L22.7173913,17.9347826 C22.7173913,17.2744421 22.1820796,16.7391304 21.5217391,16.7391304 L11.9565217,16.7391304 C11.2961813,16.7391304 10.7608696,17.2744421 10.7608696,17.9347826 L10.7608696,45.4347826 C10.7608696,46.0951231 11.2961813,46.6304348 11.9565217,46.6304348 L43.0434783,46.6304348 C43.7038187,46.6304348 44.2391304,46.0951231 44.2391304,45.4347826 L44.2391304,23.9130435 C44.2391304,23.252703 43.7038187,22.7173913 43.0434783,22.7173913 Z" id="Path"></path>
+                                <line x1="22.7173913" y1="19.1304348" x2="39.4565217" y2="19.1304348" id="Path"></line>
+                                <line x1="22.7173913" y1="22.7173913" x2="15.5434783" y2="22.7173913" id="Path"></line>
+                                <polyline id="Path" points="23.9130435 29.8913043 19.1304348 34.673913 23.9130435 39.4565217"></polyline>
+                                <polyline id="Path" points="31.0869565 39.4565217 35.8695652 34.673913 31.0869565 29.8913043"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
