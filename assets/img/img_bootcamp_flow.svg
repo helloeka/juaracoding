@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860px" height="146px" viewBox="0 0 860 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bootcamp" transform="translate(-227.000000, -704.000000)">
+            <g id="Group" transform="translate(227.000000, 704.000000)">
+                <text id="Masa-Pelatihan" font-family="Poppins-Medium, Poppins" font-size="25" font-weight="400" line-spacing="35">
+                    <tspan x="0" y="37.3868713" fill="#343434">Masa Pelatihan</tspan>
+                    <tspan x="191.728" y="35" font-size="31" fill="#FC8F8F"> </tspan>
+                </text>
+                <polygon id="Rectangle" fill="#FAC0C0" points="215 0 404.5625 0 429.5625 38 404.5625 76 215 76 235 38.3828125"></polygon>
+                <polygon id="Rectangle-Copy" fill="#FAC0C0" points="430 0 619.5625 0 644.5625 38 619.5625 76 430 76 450 38.3828125"></polygon>
+                <polygon id="Rectangle-Copy-2" fill="#FAC0C0" points="645 0 834.5625 0 859.5625 38 834.5625 76 645 76 665 38.3828125"></polygon>
+                <text id="Bulan" font-family="Poppins-Medium, Poppins" font-size="25" font-weight="400" line-spacing="35" fill="#343434">
+                    <tspan x="320" y="42">Bulan </tspan>
+                </text>
+                <text id="Bulan-Copy" font-family="Poppins-Medium, Poppins" font-size="25" font-weight="400" line-spacing="35" fill="#343434">
+                    <tspan x="535" y="42">Bulan </tspan>
+                </text>
+                <text id="Bulan-Copy-2" font-family="Poppins-Medium, Poppins" font-size="25" font-weight="400" line-spacing="35" fill="#343434">
+                    <tspan x="750" y="42">Bulan </tspan>
+                </text>
+                <circle id="Oval" fill="#FFFFFF" cx="282.5" cy="37.5" r="28.5"></circle>
+                <circle id="Oval-Copy" fill="#FFFFFF" cx="497.5" cy="37.5" r="28.5"></circle>
+                <circle id="Oval-Copy-2" fill="#FFFFFF" cx="710.5" cy="37.5" r="28.5"></circle>
+                <text id="Total-masa-pelatihan" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" line-spacing="24" fill="#343434">
+                    <tspan x="225.988" y="107">Total masa pelatihan</tspan>
+                    <tspan x="258.46" y="131">bulan coding</tspan>
+                </text>
+                <text id="In-class-training" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" line-spacing="24" fill="#343434">
+                    <tspan x="463.668" y="107">In class training</tspan>
+                </text>
+                <text id="On-the-job-training" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" line-spacing="24" fill="#343434">
+                    <tspan x="667.292" y="107">On the job training</tspan>
+                </text>
+                <text id="4" font-family="Poppins-Medium, Poppins" font-size="40" font-weight="400" fill="#E80000">
+                    <tspan x="268" y="51">4</tspan>
+                </text>
+                <text id="2" font-family="Poppins-Medium, Poppins" font-size="40" font-weight="400" fill="#E80000">
+                    <tspan x="483" y="51">2</tspan>
+                </text>
+                <text id="2-copy" font-family="Poppins-Medium, Poppins" font-size="40" font-weight="400" fill="#E80000">
+                    <tspan x="698" y="51">2</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
