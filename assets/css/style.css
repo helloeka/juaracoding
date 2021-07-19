@@ -254,31 +254,31 @@ ul {
     font-size:14px;
     text-decoration:none;
 }
-.news a:hover {
+.news a:hover, .step a:hover {
     color:#242424;
 }
-.news .owl-nav {
+.news .owl-nav, .step .owl-nav {
     position:absolute;
     left: 0;
     right: 0;
 }
-.news .owl-nav button.owl-prev {
+.news .owl-nav button.owl-prev, .step .owl-nav button.owl-prev {
     position:absolute;
     top:-200px;
     left:-80px;   
 }
 
-.news .owl-nav button.owl-next{
+.news .owl-nav button.owl-next, .step .owl-nav button.owl-next{
     position:absolute;
     top:-200px;
     right:-80px;   
 }
 
-.news .owl-nav button.owl-prev:hover,.news .owl-nav button.owl-next:hover {
+.news .owl-nav button.owl-prev:hover,.news .owl-nav button.owl-next:hover, .step .owl-nav button.owl-prev:hover,.step .owl-nav button.owl-next:hover {
     background:transparent !important;
     color:#E80000 !important
 }
-.news .owl-nav button span.material-icons-outlined {
+.news .owl-nav button span.material-icons-outlined,.step .owl-nav button span.material-icons-outlined {
     font-size:60px !important;
 }
 .jc-home-section-7 {
@@ -649,6 +649,43 @@ ul {
 .jc-bootcamp-check ul li p {
     margin-left:40px
 }
+.step .item {
+    margin:20px auto;
+    padding:15px;
+    border:1px solid #ddd;
+    border-radius:8px;
+    min-height:220px;
+    overflow:hidden;
+    position: relative;
+}
+.jc-step-number {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    background-color: #888;
+    color: #fff;
+    position: absolute;
+    top: -18px;
+    left: -8px;
+    padding: 35px 36px;
+}
+.jc-step-number p {
+    font-size:28px;
+}
+.step .item img {
+    margin:20px auto;
+    height:80px;
+    width:auto;
+}
+.step .item p {
+    text-align:center;
+}
+.step .owl-nav {
+    margin-top:50px !important;
+}
+.jc-menu ul li .dropdown-item.active, .dropdown-item:active {
+    background-color: #242424;
+}
 @media screen and (max-width:960px) {
     .jc-home-section-7  img {
         width:100%;
@@ -657,7 +694,10 @@ ul {
         margin-bottom:190px;
     }
 }
-@media screen and (max-width:767px) { 
+@media screen and (max-width:767px) {
+    .step  {
+        padding:0px 30px
+    } 
     .section-2, .section-5 {
         min-height: 450px;
         background-color: #FFEDED;
@@ -667,7 +707,7 @@ ul {
         margin: auto;
         float: none !important;
         text-align: center;
-        width: 220px;
+        width: 250px;
     }
     .jc-showcase{
         min-height:500px;
