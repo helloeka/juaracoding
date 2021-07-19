@@ -103,6 +103,12 @@ ul {
 .jc-linktext:hover {
     color:#242424
 }
+.pl-10 {
+    padding-left:10px;
+}
+.pr-10 {
+    padding-right:10px;
+}
 .btn-line-red {
     border-radius:50px;
     border:3px solid #E80000;
@@ -803,6 +809,60 @@ ul {
 .jc-list-course ul li span {
     margin-right:10px;
 }
+.news .owl-nav, .step .owl-nav button span {
+    font-size:24px;
+}
+.jc-faq  {
+    margin:80px auto !important;
+}
+.jc-faq img {
+    width:100%;
+}
+.accordion-faq {
+    border:1px solid #ddd;
+    border-radius:8px;
+    overflow: hidden;
+}
+.accordion-faq a {
+    background:#fff;
+    padding:10px;
+    cursor: pointer;
+}
+.accordion-faq a h2 {
+    font-size:18px;
+    color:#242424
+}
+.accordion-faq .card-body{
+    background-color:#eee;
+    margin:auto
+}
+.accordion-faq  .card {
+    margin:auto;
+    border-radius:0px;
+}
+.testimonial img {
+    width:100% !important;
+    height: auto!important;
+    margin:auto
+}
+.testimonial  .jc-box-wrap, .testimonial  .jc-box {
+    min-height:100px !important;
+}
+.jc-blog-item-detail h4 {
+    font-size:22px;
+    color:#242424;
+}
+.jc-blog-item-detail p {
+    font-size:15px;
+    font-weight:300;
+}
+.jc-blog-item-detail h5 {
+    font-size:24px; 
+    margin: auto auto 10px auto;
+}
+.jc-blog-item-detail {
+    margin-bottom:50px
+}
 @media screen and (max-width:960px) {
     .jc-home-section-7  img {
         width:100%;
@@ -811,9 +871,7 @@ ul {
         margin-bottom:190px;
     }
 }
-.news .owl-nav, .step .owl-nav button span {
-    font-size:24px;
-}
+
 @media screen and (max-width:767px) {
     .step  {
         padding:0px 30px
