@@ -873,6 +873,24 @@ ul {
 }
 
 @media screen and (max-width:767px) {
+    .jc-privacy {
+        float: none;
+        text-align: center;
+        margin: auto;
+    }
+    .jc-privacy ul {
+        display: inline-block;
+     }
+    .jc-footer-content {
+        text-align:center;
+    }
+    .testimonial img {
+        width: auto !important;
+        height: auto!important;
+    }
+    .testimonial .jc-box-wrap, .testimonial .jc-box {
+        text-align: center;
+    }
     .step  {
         padding:0px 30px
     } 
